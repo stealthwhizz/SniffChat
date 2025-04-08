@@ -38,4 +38,3 @@ SniffChat/
 ├── chat.py          # Chat logic (send, receive, encrypt messages)
 ├── pcap_writer.py   # Functions for creating .pcap files
 ├── utils.py         # Utilities (encryption, packet parsing helpers)
-└── README.md        # This file
